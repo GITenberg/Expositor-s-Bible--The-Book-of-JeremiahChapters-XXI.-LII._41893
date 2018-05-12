@@ -1,0 +1,38 @@
+_repo: Expositor-s-Bible--The-Book-of-JeremiahChapters-XXI.-LII._41893
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bennett, W. H. (William Henry)
+    alias: Bennett, William Henry
+    birthdate: 1855
+    deathdate: 1920
+    gutenberg_agent_id: '40501'
+    url: http://www.gutenberg.org/2009/agents/40501
+  editor:
+    agent_name: Nicoll, W. Robertson (William Robertson), Sir
+    aliases:
+    - Wace, Walter E.
+    - Nicoll, William Robertson, Sir
+    - Clear, Claudius
+    birthdate: 1851
+    deathdate: 1923
+    gutenberg_agent_id: '36133'
+    url: http://www.gutenberg.org/2009/agents/36133
+description: ''
+gutenberg_issued: '2013-01-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41893'
+  lccn: 01019594
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BS'
+- !lcsh 'Bible. Jeremiah -- Commentaries'
+title: 'Expositor''s Bible: The Book of Jeremiah, Chapters XXI.-LII.'
+url: http://www.gutenberg.org/ebooks/41893
